@@ -47,6 +47,12 @@ header{
     border: 1px solid rgb(211, 211, 211);
 }
 
+.cabecera__iconos__item{
+    margin: 0px 5px 0px 10px;
+
+}
+
+
 .cabecera__audio {
     background-image: url(img/cabecera/mic.png);
     padding: 20px;
