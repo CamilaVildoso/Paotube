@@ -79,7 +79,7 @@ header{
 }
 
 .cabecera__apps {
-    background-image: url(./img/cabecera/apps.png);
+    background-image: url(img/cabecera/apps.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
