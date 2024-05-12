@@ -11,7 +11,7 @@ body {
 
 /*seccion header*/
 header{
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -48,7 +48,7 @@ header{
 }
 
 .cabecera__iconos__item{
-    margin: 0px 5px 0px 10px;
+   border: 1px solid red;
 
 }
 
@@ -138,9 +138,10 @@ header{
     }
 
     header{
-        padding: 0px;
-        width: 280px;
+        padding: 3px;
+        width: 400px;
         align-items: center;
+        border: 1px solid red;
     }
 
     .logo{
@@ -151,10 +152,6 @@ header{
         display: none;
     }
 
-    .cabecera__container{
-        display: flex;
-        align-items: center;
-    }
 
     .logo__item{
         width: 30px;
