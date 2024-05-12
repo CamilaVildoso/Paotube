@@ -47,39 +47,28 @@ header{
     border: 1px solid rgb(211, 211, 211);
 }
 
-.buscar__label {
-    background-image: url(img/cabecera/search.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: 1px solid rgb(211, 211, 211);
-    background-color: #F9F9F9;
-    border-left: none;
-    padding: 8px 18px 5px;
-    cursor: pointer;
-}
-
 .cabecera__audio {
-    background-image: url(/img/cabecera/mic.png);
+    background-image: url(img/cabecera/mic.png);
     padding: 20px;
     display: none;
 }
 
 .cabecera__videos {
-    background-image: url(/img/cabecera/video_call.png);
+    background-image: url(img/cabecera/video_call.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
 }
 
 .cabecera__apps {
-    background-image: url(/img/cabecera/apps.png);
+    background-image: url(img/cabecera/apps.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
 }
 
 .cabecera__notificaciones {
-    background-image: url(/img/cabecera/notifications.png);
+    background-image: url(img/cabecera/notifications.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
