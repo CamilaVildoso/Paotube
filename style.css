@@ -1,6 +1,5 @@
 body {
     font-family: Roboto, Arial, Helvetica, sans-serif;
-    background-color: var(--azul-claro);
     width: 100%;
     height: 100vh;
     overflow: auto;
@@ -22,6 +21,7 @@ header{
     display: flex;
     align-items: center;
     gap: 2px;
+    justify-content: space-between;
 }
 
 .logo{
@@ -140,4 +140,46 @@ header{
     display: flex;
     align-items: center;
     gap: 5px;
+}
+
+
+@media (min-width: 300px) {
+
+    body{
+        padding: 0px 0px 0px 0px;
+    }
+
+    header{
+        padding: 0px;
+        width: 280px;
+        align-items: center;
+    }
+
+    .logo{
+        width: 30px;
+    }
+
+    .cabecera__buscar__item{
+        display: none;
+    }
+
+    .cabecera__container{
+        display: flex;
+        align-items: center;
+    }
+
+    .logo__item{
+        width: 30px;
+        justify-content: none;
+    }
+    
+
+    .portada{
+        width: 40px;
+    }
+
+    .superior__seccion__container{
+        overflow: scroll;
+    }
+    
 }
