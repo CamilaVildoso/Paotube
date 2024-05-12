@@ -38,16 +38,6 @@ header{
     
 }
 
-<<<<<<< HEAD
-=======
-.logo__item {
-    background-image: url(./img/cabecera/Logo.png);
-    background-repeat: no-repeat;
-    padding: 15px 50px;
-    cursor: pointer;
-}
-
->>>>>>> d446de36066ae14c6b2468f4e7d28ed9c5c16807
 .buscar__input {
     width: 260px;
     height: 32px;
@@ -69,43 +59,27 @@ header{
 }
 
 .cabecera__audio {
-<<<<<<< HEAD
     background-image: url(/img/cabecera/mic.png);
-=======
-    background-image: url(img/cabecera/mic.png);
->>>>>>> d446de36066ae14c6b2468f4e7d28ed9c5c16807
     padding: 20px;
     display: none;
 }
 
 .cabecera__videos {
-<<<<<<< HEAD
     background-image: url(/img/cabecera/video_call.png);
-=======
-    background-image: url(img/cabecera/video_call.png);
->>>>>>> d446de36066ae14c6b2468f4e7d28ed9c5c16807
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
 }
 
 .cabecera__apps {
-<<<<<<< HEAD
     background-image: url(/img/cabecera/apps.png);
-=======
-    background-image: url(img/cabecera/apps.png);
->>>>>>> d446de36066ae14c6b2468f4e7d28ed9c5c16807
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
 }
 
 .cabecera__notificaciones {
-<<<<<<< HEAD
     background-image: url(/img/cabecera/notifications.png);
-=======
-    background-image: url(img/cabecera/notifications.png);
->>>>>>> d446de36066ae14c6b2468f4e7d28ed9c5c16807
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
