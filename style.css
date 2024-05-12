@@ -38,13 +38,6 @@ header{
     
 }
 
-.logo__item {
-    background-image: url(../img/cabecera/Logo.png);
-    background-repeat: no-repeat;
-    padding: 15px 50px;
-    cursor: pointer;
-}
-
 .buscar__input {
     width: 260px;
     height: 32px;
@@ -55,7 +48,7 @@ header{
 }
 
 .buscar__label {
-    background-image: url(../img/cabecera/search.png);
+    background-image: url(img/cabecera/search.png);
     background-repeat: no-repeat;
     background-position: center;
     border: 1px solid rgb(211, 211, 211);
@@ -66,27 +59,27 @@ header{
 }
 
 .cabecera__audio {
-    background-image: url(../img/cabecera/mic.png);
+    background-image: url(/img/cabecera/mic.png);
     padding: 20px;
     display: none;
 }
 
 .cabecera__videos {
-    background-image: url(../img/cabecera/video_call.png);
+    background-image: url(/img/cabecera/video_call.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
 }
 
 .cabecera__apps {
-    background-image: url(../img/cabecera/apps.png);
+    background-image: url(/img/cabecera/apps.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
 }
 
 .cabecera__notificaciones {
-    background-image: url(../img/cabecera/notifications.png);
+    background-image: url(/img/cabecera/notifications.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
